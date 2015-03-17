@@ -1,0 +1,2 @@
+# android-mediarecorder
+使用android原生api实现的android录像项目。这里面展示了mediarecorder的常规的用法。
